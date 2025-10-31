@@ -1,16 +1,15 @@
-## Hi there 👋
+## About me
+- 7+ years experience with graphics programming and shaders
+- 7+ years experience in JavaScript (self-taught)
+- 5+ years experience in Java
+- 2 years experience in C#
+- Game developer using Godot Engine
+- Experienced in level design
+- Comfortable with concurrent code
+- Comfortable with working with teams and using version control (I mean this *is* GitHub we're on right now)
 
-<!--
-**DawnKiro/DawnKiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm available for hire or commission, but availability is currently low. Contact me directly for more info.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Contacts
+- Discord: `kirobyte4`
+- Email: `kirobyte4@gmail.com`
