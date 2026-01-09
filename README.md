@@ -4,7 +4,7 @@
 - 5+ years experience in Java
 - 2 years experience in C#
 - Game developer using Godot Engine
-- Experienced in level design
+- Experienced in level design and procedural generation
 - Comfortable with concurrent code
 - Comfortable with working with teams and using version control (I mean this *is* GitHub we're on right now)
 
