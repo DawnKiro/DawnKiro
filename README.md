@@ -10,7 +10,7 @@
 
 #### [Minecraft Worldgen Screenshots](https://github.com/DawnKiro/DawnKiro/blob/main/worldgen%20screenshots.md)
 
-I'm available for hire or commission, but availability is currently low. Contact me directly for more info.
+I'm available for hire or commission, but availability may not be consistent due to coursework. Contact me directly for more info.
 
 ### Contacts
 - Discord: `kirobyte4`
