@@ -1,3 +1,13 @@
+# Olympia (2026)
+This is a current project attempting to recreate the atmosphere of some of North America's old growth forests.
+
+<img width="1920" height="1017" alt="2026-04-27_13 24 43" src="https://github.com/DawnKiro/DawnKiro/blob/main/worldgen%20screenshots/2026-04-27_13.24.43.png" />
+
+# Floating Islands (2026)
+This was a recent experiment to test the capabilities of [Lithostitched](https://modrinth.com/mod/lithostitched).
+
+<img width="1920" height="1017" alt="2026-04-27_02 14 06" src="https://github.com/DawnKiro/DawnKiro/blob/main/worldgen%20screenshots/2026-04-27_02.14.06.png" />
+
 # Tectonic (2025)
 I contributed some features to [Tectonic](https://modrinth.com/datapack/tectonic), these being the lava tunnels at y=-50 and the new sea floor shaping.
 
