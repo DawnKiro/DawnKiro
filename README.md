@@ -1,6 +1,6 @@
 ## About me
-- 7+ years experience with graphics programming and shaders
-- 7+ years experience in JavaScript (self-taught)
+- 8+ years experience with graphics programming and shaders
+- 10+ years experience in JavaScript (self-taught)
 - 5+ years experience in Java
 - 2 years experience in C#
 - Game developer using Godot Engine
