@@ -13,5 +13,5 @@
 I'm available for hire or commission. Contact me directly for more info.
 
 ### Contacts
-- Discord: `kirobyte4`
 - Email: `kirobyte4@gmail.com`
+- Discord: `kirobyte4`
